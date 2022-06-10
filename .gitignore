@@ -3,3 +3,7 @@
 
 raw_dataset/
 dataset/
+wandb/
+saved_model/
+models/*
+!models/baseline_best_0.0339.h5
